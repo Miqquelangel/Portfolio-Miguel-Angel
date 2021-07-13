@@ -1,6 +1,6 @@
 # Portfolio Miguel Angel
  Proyectos Tensorflow (trabajando actualmente en modelos de Computer Vision, CNN y NLP)
-## [PROYECTO 1: Estimación de gastos médicos de una aseguradora en función de distintas variables.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)
+## [PROYECTO 1(Regresión): Estimación de gastos médicos de una aseguradora en función de distintas variables.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)
 * Creación de un modelo el cual nos estime el precio del gasto médico en función de la edad, sexo, hijos, lugar de residencia, bmi y si es fumador.
 * Uso de librerías como Matploblib, Pandas, Scikit-learn, Keras y NumPy.
 * Más de 1000 muestras de información en la cual basar el modelo.
