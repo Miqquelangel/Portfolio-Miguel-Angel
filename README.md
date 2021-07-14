@@ -47,7 +47,42 @@
 
 ---
 
-## [PROYECTO-2 Tensorflow <img align="left" width="200" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/portada%20proyecto.jpeg"> (Multiclass classification): Modelo predictivo de imágenes del sector de la moda.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predictivo_de_im%C3%A1genes_del_sector_de_la_moda.ipynb)
+## [PROYECTO-2 Tensorflow <img align="left" width="175" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/portada%20proyecto.jpeg"> (Multiclass classification): Modelo predictivo de imágenes del sector de la moda.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predictivo_de_im%C3%A1genes_del_sector_de_la_moda.ipynb)
 |[Cuaderno Google Colab con índice](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predictivo_de_im%C3%A1genes_del_sector_de_la_moda.ipynb)|
 |---|
 
+<details>
+<summary>Creación de un modelo el cual haga predicciones de imágenes a partir de una base de datos del sector de la moda.</summary>
+<br>
+<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/Captura.PNG">
+</details>
+
+<details>
+<summary>Uso de librerías como Matploblib, Pandas, Scikit-learn, Keras y NumPy.</summary>
+<br>
+<ul><li>Gráfico donde se muestra el Learning Rate:</li>
+</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/lr.png">
+  <ul><li>Gráfico de los parámetros Loss, Accuracy y Learning Rate:</li>
+</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga%20(1).png">
+</details>
+
+<details>
+<summary>Utilización de 'Spare Categorical Crossentropy', funciónes de activación 'ReLu', 'Softmax' y optimizador 'Adam' para obtener el mejor modelo.</summary>
+<br>
+<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/Capturakeras.PNG">
+</details>
+
+<details>
+<summary>Arquitectura y gráficos del mejor modelo.</summary>
+<br>
+<ul><li>Sumario:</li>
+</ul><img width="600" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/summary.PNG">
+  <ul><li>Layers:</li>
+</ul><img width="600" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/layers.PNG">
+</details>
+
+<details>
+<summary>Análisis (matriz de confusión) y predicciones del modelo. </summary>
+<br>
+<img width="300" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/mae.PNG">
+</details>
