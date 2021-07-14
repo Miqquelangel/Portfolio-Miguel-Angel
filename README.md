@@ -54,35 +54,38 @@
 <details>
 <summary>Creación de un modelo el cual haga predicciones de imágenes a partir de una base de datos del sector de la moda.</summary>
 <br>
-<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/Captura.PNG">
+<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/data1.PNG">
 </details>
 
 <details>
 <summary>Uso de librerías como Matploblib, Pandas, Scikit-learn, Keras y NumPy.</summary>
 <br>
 <ul><li>Gráfico donde se muestra el Learning Rate:</li>
-</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/lr.png">
+</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/lr.PNG">
   <ul><li>Gráfico de los parámetros Loss, Accuracy y Learning Rate:</li>
-</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga%20(1).png">
+</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/loss.PNG">
 </details>
 
 <details>
 <summary>Utilización de 'Spare Categorical Crossentropy', funciónes de activación 'ReLu', 'Softmax' y optimizador 'Adam' para obtener el mejor modelo.</summary>
 <br>
-<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/Capturakeras.PNG">
+<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/modelo.PNG">
 </details>
 
 <details>
 <summary>Arquitectura y gráficos del mejor modelo.</summary>
 <br>
 <ul><li>Sumario:</li>
-</ul><img width="600" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/summary.PNG">
+</ul><img width="600" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/sumario.PNG">
   <ul><li>Layers:</li>
-</ul><img width="600" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/layers.PNG">
+</ul><img width="600" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/layers.PNG">
 </details>
 
 <details>
 <summary>Análisis (matriz de confusión) y predicciones del modelo. </summary>
 <br>
-<img width="300" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/mae.PNG">
+<ul><li>Matriz de confusión::</li>
+</ul><img width="1000" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/matriz.PNG">
+  <ul><li>Predicciones:</li>
+</ul><img width="1000" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/predicciones.png">
 </details>
