@@ -10,7 +10,7 @@
 |---|
 
 <details>
-<summary>Creación de un modelo el cual nos estime el precio del gasto médico en función de la edad, sexo, hijos, lugar de residencia, bmi y si es fumador.</summary>
+<summary>Creación de un modelo el cual nos estime el precio del gasto médico en función de la edad, sexo, hijos, lugar de residencia, BMI y si es fumador.</summary>
 <br>
 <img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/Captura.PNG">
 </details>
@@ -19,7 +19,7 @@
 <summary>Uso de librerías como Matploblib, Pandas, Scikit-learn, Keras y NumPy.</summary>
 <br>
 <ul><li>Gráfico donde se muestra el Learning Rate:</li>
-</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga.png">
+</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/lr.png">
   <ul><li>Gráfico del 'MAE' respecto el Learning Rate:</li>
 </ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga%20(1).png">
 </details>
