@@ -7,8 +7,9 @@
 ![](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga.png)
 * Más de 1000 muestras de información en la cual basar el modelo.
 * Utilización de 'MAE', función de activación 'ReLu' y optimizador 'Adam' para obtener el mejor modelo.
+![](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga%20(1).png)
 * Arquitectura y gráficos del mejor modelo.
 * Visualización de las predicciones con un 'MAE' ≈ 1462€ 
 
-![](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga%20(1).png)
+
 
