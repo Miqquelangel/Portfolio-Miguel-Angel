@@ -50,4 +50,4 @@ And of course learning about analitics, Machine learning and Deep learning.:smil
 
 # GOALS
 
-I want to make an impact and be able to solve problems, sharing knowledge with other people and create models or tools to help others to achieve great things.
+I want to make an impact and be able to solve problems, sharing knowledge with other people and create models or tools to help me and other people to achieve great things.
