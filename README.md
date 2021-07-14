@@ -15,11 +15,27 @@
 <br>
 <ul><li>Gráfico donde se muestra el Learning Rate</li>
 </ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga.png">
+  <ul><li>Gráfico del 'MAE' respecto el Learning Rate</li>
+</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga%20(1).png">
 </details>
 
-* Utilización de 'MAE', función de activación 'ReLu' y optimizador 'Adam' para obtener el mejor modelo.
-* Arquitectura y gráficos del mejor modelo.
-* Visualización de las predicciones con un 'MAE' ≈ 1462€ 
+<details>
+<summary>Utilización de 'MAE', función de activación 'ReLu' y optimizador 'Adam' para obtener el mejor modelo.</summary>
+<br>
+<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/Capturakeras.PNG">
+</details>
 
-![](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga%20(1).png)
-![](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga.png)
+<details>
+<summary>Arquitectura y gráficos del mejor modelo.</summary>
+<br>
+<ul><li>Sumario</li>
+</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/summary.PNG">
+  <ul><li>Layers</li>
+</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/layers.PNG">
+</details>
+
+<details>
+<summary>Predicciones con un 'MAE'≈ 1462€ </summary>
+<br>
+<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/mae.PNG">
+</details>
