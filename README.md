@@ -1,4 +1,4 @@
-# Portfolio Miguel Angel
+# Portfolio Miguel Angel sobre mi
  Proyectos Tensorflow (trabajando actualmente en modelos de Computer Vision, CNN y NLP)
 ## [PROYECTO 1 (RNN): Estimación de gastos médicos de una aseguradora en función de distintas variables.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)
 [Cuaderno Google Colab con índice](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)
