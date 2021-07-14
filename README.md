@@ -87,5 +87,5 @@
 <ul><li>Matriz de confusión::</li>
 </ul><img width="1000" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/matriz.PNG">
   <ul><li>Predicciones:</li>
-</ul><img width="1000" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/predicciones.png">
+</ul><img width="1200" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/predicciones.png">
 </details>
