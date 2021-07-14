@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary>Uso de libreríasa como Matploblib, Pandas, Scikit-learn, Keras y NumPy.</summary>
+<summary>Uso de librerías como Matploblib, Pandas, Scikit-learn, Keras y NumPy.</summary>
 <br>
 <ul><li>Gráfico donde se muestra el Learning Rate:</li>
 </ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/lr.png">
