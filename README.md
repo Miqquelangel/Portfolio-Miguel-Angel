@@ -15,9 +15,9 @@
 <details>
 <summary>Uso de librerías como Matploblib, Pandas, Scikit-learn, Keras y NumPy.</summary>
 <br>
-<ul><li>Gráfico donde se muestra el Learning Rate</li>
+<ul><li>Gráfico donde se muestra el Learning Rate:</li>
 </ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga.png">
-  <ul><li>Gráfico del 'MAE' respecto el Learning Rate</li>
+  <ul><li>Gráfico del 'MAE' respecto el Learning Rate:</li>
 </ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/descarga%20(1).png">
 </details>
 
@@ -30,14 +30,14 @@
 <details>
 <summary>Arquitectura y gráficos del mejor modelo.</summary>
 <br>
-<ul><li>Sumario</li>
-</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/summary.PNG">
-  <ul><li>Layers</li>
-</ul><img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/layers.PNG">
+<ul><li>Sumario:</li>
+</ul><img width="600" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/summary.PNG">
+  <ul><li>Layers:</li>
+</ul><img width="600" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/layers.PNG">
 </details>
 
 <details>
 <summary>Predicciones con un 'MAE'≈ 1462€ </summary>
 <br>
-<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/mae.PNG">
+<img width="300" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/mae.PNG">
 </details>
