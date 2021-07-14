@@ -44,3 +44,10 @@
 <br>
 <img width="300" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/mae.PNG">
 </details>
+
+---
+
+## [PROYECTO-2 Tensorflow <img align="left" width="300" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/portada%20proyecto.jpeg"> (Multiclass classification): Estimación de gastos médicos de una aseguradora en función de distintas variables.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)
+|[Cuaderno Google Colab con índice](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)|
+|---|
+
