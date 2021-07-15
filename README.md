@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary>Utilización de 'Sparse Categorical Crossentropy', funciónes de activación 'ReLu', 'Softmax' y optimizador 'Adam' para obtener el mejor modelo.</summary>
+<summary>Utilización de 'Sparse Categorical Crossentropy', funciones de activación 'ReLu', 'Softmax' y optimizador 'Adam' para obtener el mejor modelo.</summary>
 <br>
 <img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/modelo.PNG">
 </details>
