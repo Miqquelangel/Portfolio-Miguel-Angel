@@ -21,7 +21,7 @@ Hello, my name is Miguel Ángel and I'm an apassionate about the world of analit
 
 I started this journey when I was first introducted to a series of videos posted on youtube. Since then I've been learning about everything I could.
 
-Im currently doing courses online about this topics and applying the knowledge to work on my own projects.
+I'm currently doing courses online about this topics and applying the knowledge to work on my own projects.
 
 ---
 
@@ -42,7 +42,7 @@ I'd rather go step by step. First finish this courses and then dive into more.
 
 # HOBBIES
 
-For me, Olympic lifting and Basketball are my gateways to free my mind when i want to have fun or stop thinking about what worries me.
+For me, Olympic lifting and Basketball are my ways to free my mind when i want to have fun or stop thinking about what worries me.
 
 And of course learning about analitics, Machine learning and Deep learning.:smile:
 
