@@ -9,6 +9,8 @@
 |[Cuaderno Google Colab con índice](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)|
 |---|
 
+* *Menús desplegables:*
+
 <details>
 <summary>Creación de un modelo el cual nos estime el precio del gasto médico en función de la edad, sexo, hijos, lugar de residencia, BMI y si es fumador.</summary>
 <br>
@@ -56,6 +58,8 @@
 ## [PROYECTO-2 Tensorflow <img align="left" width="175" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/portada%20proyecto.jpeg"> (Multiclass classification): Modelo predictivo de imágenes del sector de la moda.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predictivo_de_im%C3%A1genes_del_sector_de_la_moda.ipynb)
 |[Cuaderno Google Colab con índice](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predictivo_de_im%C3%A1genes_del_sector_de_la_moda.ipynb)|
 |---|
+
+* *Menús desplegables:*
 
 <details>
 <summary>Creación de un modelo el cual haga predicciones de imágenes a partir de una base de datos del sector de la moda.</summary>
