@@ -31,6 +31,12 @@
 </details>
 
 <details>
+<summary>Comparación de modelos.</summary>
+<br>
+<img width="1700" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/COMPARISION.PNG">
+</details>
+
+<details>
 <summary>Arquitectura y gráficos del mejor modelo.</summary>
 <br>
 <ul><li>Sumario:</li>
@@ -70,6 +76,15 @@
 <summary>Utilización de 'Sparse Categorical Crossentropy', funciones de activación 'ReLu', 'Softmax' y optimizador 'Adam' para obtener el mejor modelo.</summary>
 <br>
 <img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/modelo.PNG">
+</details>
+
+<details>
+<summary>Comparación de modelos.</summary>
+<br>
+<ul><li>Modelo_1:</li>
+</ul><img width="900" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/comparision%201.PNG">
+  <ul><li>Modelo_3:</li>
+</ul><img width="900" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/comparision%202.PNG">
 </details>
 
 <details>
