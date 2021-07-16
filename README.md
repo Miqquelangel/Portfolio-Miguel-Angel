@@ -6,7 +6,7 @@
 
 ---
 ## [PROYECTO-1 Tensorflow <img align="left" width="200" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/a.png"> (Regression Neural Network): Estimación de gastos médicos de una aseguradora en función de distintas variables.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)
-|[Cuaderno Google Colab con índice](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)|
+|[Cuaderno Google Colab con índice (código completo)](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Predicci%C3%B3n_de_gastos_m%C3%A9dicos.ipynb)|
 |---|
 
 * *Menús desplegables:*
@@ -56,7 +56,7 @@
 ---
 
 ## [PROYECTO-2 Tensorflow <img align="left" width="175" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/portada%20proyecto.jpeg"> (Multiclass classification): Modelo predictivo de imágenes del sector de la moda.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predictivo_de_im%C3%A1genes_del_sector_de_la_moda.ipynb)
-|[Cuaderno Google Colab con índice](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predictivo_de_im%C3%A1genes_del_sector_de_la_moda.ipynb)|
+|[Cuaderno Google Colab con índice (código completo)](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predictivo_de_im%C3%A1genes_del_sector_de_la_moda.ipynb)|
 |---|
 
 * *Menús desplegables:*
