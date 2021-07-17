@@ -1,1 +1,1 @@
-
+* 17/07/2021 -> Continue experimenting with CNN model (Trying to get better results adding Conv2D and MaxPool2D extra layers). Continue reading ***Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow***
