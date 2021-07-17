@@ -27,9 +27,9 @@
 </details>
 
 <details>
-<summary>Utilización de 'MAE', función de activación 'ReLu' y optimizador 'Adam' para obtener el mejor modelo.</summary>
+<summary>Utilización de 'MAE' (Mean Absolute Error) como métrica, función de activación 'ReLu' (Rectified Linear Unit), optimizador 'Adam' y modelo con 'callbacks' para determinar el learning rate adecuado con el objetivo de obtener el mejor modelo.</summary>
 <br>
-<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/Capturakeras.PNG">
+<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/callback.PNG">
 </details>
 
 <details>
@@ -77,9 +77,9 @@
 </details>
 
 <details>
-<summary>Utilización de 'Sparse Categorical Crossentropy', funciones de activación 'ReLu', 'Softmax' y optimizador 'Adam' para obtener el mejor modelo.</summary>
+<summary>Utilización de 'Sparse Categorical Crossentropy', funciones de activación 'ReLu' (Rectified Linear Unit) y 'Softmax'; optimizador 'Adam' y modelo con 'callbacks' para determinar el learning rate adecuado con el objetivo de obtener el mejor modelo.</summary>
 <br>
-<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/modelo.PNG">
+<img src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/callback.PNG">
 </details>
 
 <details>
