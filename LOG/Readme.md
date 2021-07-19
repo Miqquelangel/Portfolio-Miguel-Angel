@@ -2,4 +2,4 @@
 
 * 18/07/2021 -> Continue experimenting with CNN model (Colab don't let me use GPU's so... I have to wait). Watch MIT lecture about ***Convolutional Neural Network***
 
-* 19/07/2021I'm going to start the project today -> Computer Vision (CNN)
+* 19/07/2021 I'm going to start the project today -> Computer Vision (CNN)
