@@ -6,7 +6,7 @@
 ---
 
 ## [PROYECTO-1 Tensorflow <img align="left" width="200" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto%203/PORTADA.jpg"> (Computer Vision, Convolutional Neural Network): Modelo predictivo de imágenes de clasificación binaria.](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predicitivo_de_im%C3%A1genes_de_clasificaci%C3%B3n_binaria.ipynb)
-|[Cuaderno Google Colab con índice (código completo)](https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predicitivo_de_im%C3%A1genes_de_clasificaci%C3%B3n_binaria.ipynb)|
+|[Cuaderno Google Colab con índice (código completo)](https://colab.research.google.com/github/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Modelo_predicitivo_de_im%C3%A1genes_de_clasificaci%C3%B3n_binaria.ipynb)|
 |---|
 
 * *Menús desplegables:*
