@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary>Comparación de modelos.</summary>
+<summary>A/B testing.</summary>
 <br>
 <img width="1700" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/COMPARISION.PNG">
 </details>
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-<summary>Comparación de modelos.</summary>
+<summary>A/B testing.</summary>
 <br>
 <ul><li>Modelo_1:</li>
 </ul><img width="900" src="https://github.com/Miqquelangel/Portfolio-Miguel-Angel/blob/main/Imagen/proyecto2/comparision%201.PNG">
