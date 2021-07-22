@@ -6,3 +6,5 @@
 
 
 * 20/07/2021 After a long day I finished the whole project of Computer Vision (CNN) from end to end.
+
+* 22/07/2021 Using transfer learning in a model.
